@@ -1,6 +1,6 @@
 <?php
 
-	$farbe = "blue";
+	$farbe = "green";
 	$bgfarbe = "#FFF";
 
 	$msg="<table border='0' style='font-size: 10pt; color: $farbe;'>";
